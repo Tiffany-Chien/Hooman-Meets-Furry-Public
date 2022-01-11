@@ -17,35 +17,34 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 
 ### 1. Login
 
-<img src="demo/login.gif" alt="Login" height="200">
-* Allow user to login and use the login features(Pet similar, Pet Compare and Like Page)
+- Allow user to login and use the login features(Pet similar, Pet Compare and Like Page)
+
+  <img src="demo/login.gif" alt="Login" height="250">
 
 ### 2. Landing
 
-<img src="demo/home.PNG" alt="Home" height="200">
+- If the user is logged in, the navigation will show user login specific features
+  <img src="demo/home.PNG" alt="Home" height="250">
 
 ### 3. Pet Search
 
 - If user logged in, user can like/dislike the pet and it will be saved in database
-
-<img src="demo/info_page.gif" alt="info" height="200">
+  <img src="demo/info_page.gif" alt="info" height="300">
 
 - Allow user to make advanced search with multi selections
-
-<img src="demo/advanced_search.PNG" alt="advanced Search"  height="200">
-
+  <img src="demo/advanced_search.PNG" alt="advanced Search"  height="320">
+- Every pet has their info card that shows all the pet and rescue infor
 <img src="demo/pet_info.PNG" alt="PetInfo" height="200">
-<img src="demo/search_page.gif" alt="SearchPage" height="200">
+<!-- <img src="demo/search_page.gif" alt="SearchPage" height="200"> -->
 
 ### 4. Breed Rater
 
-<img src="demo/breed_rater.PNG" alt="BreedRater" height="200">
+  <img src="demo/breed_rater.PNG" alt="BreedRater" height="200">
 
 ### 5. Rescue Search
 
 - Allow user to search for pet rescue according to location.
-
-<img src="demo/rescue_search.PNG" alt="Rescue Search" height="200">
+  <img src="demo/rescue_search.PNG" alt="Rescue Search" height="200">
 
 ### 6. Pet Recommendation
 
