@@ -3,8 +3,8 @@
 ## Table of Contents
 
 1. [Overview](#Overview)
-2. [Features](#Features)
-3. [Settings & Setups](#Settings)
+2. [Settings & Setups](#Settings)
+3. [Features](#Features)
 4. [Schema](#Schema)
 
 ## Overview
@@ -12,57 +12,6 @@
 ### Description :cat:
 
 Hooman Meets Furry aims to help users to discover and find the animal that will be right for thier family. The application we are developing recommend user their ideal pet according to user’s preferences and search in the database according to various criteria to make recommendations of the furry babies.
-
-## Features :dog2:
-
-### 1. Login
-
-- Allow user to login and use the login features(Pet similar, Pet Compare and Like Page)
-
-  <img src="demo/login.gif" alt="Login" height="250">
-
-### 2. Landing
-
-- If the user is logged in, the navigation will show user login specific features
-  <img src="demo/home.PNG" alt="Home" height="250">
-
-### 3. Pet Search
-
-- If user logged in, user can like/dislike the pet and it will be saved in database
-  <img src="demo/info_page.gif" alt="info" height="300">
-
-- Allow user to make advanced search with multi selections
-  <img src="demo/advanced_search.PNG" alt="advanced Search"  height="320">
-- Every pet has their info card that shows all the pet and rescue infor
-<img src="demo/pet_info.PNG" alt="PetInfo" height="200">
-<!-- <img src="demo/search_page.gif" alt="SearchPage" height="200"> -->
-
-### 4. Breed Rater
-
-  <img src="demo/breed_rater.PNG" alt="BreedRater" height="200">
-
-### 5. Rescue Search
-
-- Allow user to search for pet rescue according to location.
-  <img src="demo/rescue_search.PNG" alt="Rescue Search" height="200">
-
-### 6. Pet Recommendation
-
-- Allow user to get recommended pets according to user select attribute
-  <img src="demo/recommend.PNG" alt="Recommend" height="200">
-
-### 7. Pet Compare
-
-- Login required
-- Allow user to select pets and see a comparision table
-
-<img src="demo/home.PNG" alt="Pet Compare" height="200">
-
-### 8. Pet Similar
-
-- Login required
-- Allow user to select pets from pet search page and get similar pet recommendation
-  <img src="demo/similar_pet0.gif" alt="Similar Pet" height="200">
 
 ## Settings
 
@@ -74,6 +23,56 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 | `yarn start`          | Start running frontend, backend concurrently |
 | `yarn start:backend`  | Start the backend server                     |
 | `yarn start:frontend` | Start the frontend                           |
+
+## Features :dog2:
+
+### 1. Login
+
+- Allow user to login and use the login features(Pet similar, Pet Compare and Like Page)
+
+  <img src="demo/login.gif" alt="Login" height="250">
+
+### 2. Landing Page
+
+- If the user is logged in, the navigation will show user login specific features
+
+### 3. Pet Search
+
+- If user logged in, user can like/dislike the pet and it will be saved in database
+- Every pet has their info card that shows all the pet and rescue information
+  <img src="demo/info_page.gif" alt="info" height="300">
+- Allow user to make advanced search with multi selections
+  <img src="demo/advanced_search.PNG" alt="advanced Search"  height="320">
+
+<!-- <img src="demo/pet_info.PNG" alt="PetInfo" height="200"> -->
+<!-- <img src="demo/search_page.gif" alt="SearchPage" height="200"> -->
+
+### 4. Breed Rater
+
+- Allows users to view the top 10 breeds of cat or dog based on the feature they select. It also shows a picture of each breed from a pet that’s currently in the database
+  <!-- <img src="demo/breed_rater.PNG" alt="BreedRater" height="200"> -->
+
+### 5. Rescue Search
+
+- Allow user to search for pet rescue according to location
+
+### 6. Pet Recommendation
+
+- Allow user to get recommended pets according to user select attribute
+  <img src="demo/recommend.PNG" alt="Recommend" height="200">
+
+### 7. Pet Compare
+
+- Login required
+- Allow user to select pets and see a comparision table
+
+<!-- <img src="demo/home.PNG" alt="Pet Compare" height="200"> -->
+
+### 8. Pet Similar
+
+- Login required
+- Allow user to select pets from pet search page and get similar pet recommendation
+  <img src="demo/similar_pet0.gif" alt="Similar Pet" height="200">
 
 ## API Endpoints :pushpin:
 
