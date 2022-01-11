@@ -97,7 +97,7 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 ## Schema
 
 - ER Diagram
-<img src="demo/ER-diagram" alt="diagram" height="400">
+<img src="demo/ER-diagram.png" alt="diagram" height="400">
 <!-- TODO: Add optimization and description -->
 
 ###### tags: `PetFinder`
