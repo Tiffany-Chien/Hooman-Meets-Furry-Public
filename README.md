@@ -44,7 +44,8 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 ### 5. Rescue Search
 
 - Allow user to search for pet rescue according to location.
-  <img src="demo/rescue_search.PNG" alt="Rescue Search" height="200">
+
+<img src="demo/rescue_search.PNG" alt="Rescue Search" height="200">
 
 ### 6. Pet Recommendation
 
@@ -55,7 +56,8 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 
 - Login required
 - Allow user to select pets and see a comparision table
-  <img src="demo/home.PNG" alt="Pet Compare" height="200">
+
+<img src="demo/home.PNG" alt="Pet Compare" height="200">
 
 ### 8. Pet Similar
 
@@ -95,7 +97,7 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 ## Schema
 
 - ER Diagram
-<img src="demo/ER-diagram.PNG" alt="diagrma" height="200">
+<img src="demo/ER-diagram" alt="diagram" height="400">
 <!-- TODO: Add optimization and description -->
 
 ###### tags: `PetFinder`
