@@ -40,8 +40,11 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 
 - If user logged in, user can like/dislike the pet and it will be saved in database
 - Every pet has their info card that shows all the pet and rescue information
+
   <img src="demo/info_page.gif" alt="info" height="300">
+
 - Allow user to make advanced search with multi selections
+
   <img src="demo/advanced_search.PNG" alt="advanced Search"  height="320">
 
 <!-- <img src="demo/pet_info.PNG" alt="PetInfo" height="200"> -->
@@ -59,6 +62,7 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 ### 6. Pet Recommendation
 
 - Allow user to get recommended pets according to user select attribute
+
   <img src="demo/recommend.PNG" alt="Recommend" height="200">
 
 ### 7. Pet Compare
@@ -72,6 +76,7 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 
 - Login required
 - Allow user to select pets from pet search page and get similar pet recommendation
+
   <img src="demo/similar_pet0.gif" alt="Similar Pet" height="200">
 
 ## API Endpoints :pushpin:
@@ -95,7 +100,13 @@ Hooman Meets Furry aims to help users to discover and find the animal that will 
 ## Schema
 
 - ER Diagram
+
 <img src="demo/ER-diagram.png" alt="diagram" height="400">
+
 <!-- TODO: Add optimization and description -->
+
+- Query Optimization
+
+  <img src="demo/query-optimize.png" alt="diagram" height="400">
 
 ###### tags: `PetFinder`
